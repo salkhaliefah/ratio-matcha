@@ -1,0 +1,67 @@
+/* what website looks like using css */
+
+/* Whole page */
+#root {
+  min-height: 100vh;
+  background: #f4efe7;
+  color: #2f241b;
+  font-family: Arial, sans-serif;
+}
+
+/* Navigation bar */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 60px;
+}
+
+/* RATIO logo text */
+nav h2 {
+  margin: 0;
+  letter-spacing: 4px;
+}
+
+/* Navigation links */
+nav div {
+  display: flex;
+  gap: 30px;
+}
+
+nav a {
+  color: #2f241b;
+  text-decoration: none;
+}
+
+/* Main hero section */
+main {
+  min-height: 75vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* Main heading */
+main h1 {
+  font-size: 64px;
+  margin-bottom: 10px;
+  letter-spacing: 6px;
+}
+
+/* Description */
+main p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+/* Booking button */
+main button {
+  padding: 14px 28px;
+  border: none;
+  background: #4a3426;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
