@@ -1,3 +1,16 @@
 #Terminal Commands-  
 #git add = Stage files for your next commit.
 #. = Include files in the current folder and its subfolders, except ignored files.
+#git commit — Saves a snapshot of your staged project files in Git's history.
+#-m — Allows you to include a short message.
+
+#Think of a commit as a checkpoint in your project's history. If you make changes later, Git helps you compare them with earlier versions.
+
+#git remote → Manage connections to remote repositories.
+add → Add a new connection.
+origin → The name we give our GitHub repository.
+URL → The address of your repository on GitHub.
+
+#git branch → Manages branches
+-M → Renames your current branch.
+main → The name of your primary development branch.
