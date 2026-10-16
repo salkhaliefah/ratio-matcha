@@ -73,6 +73,17 @@ Through this project, I am focusing on strengthening my understanding of:
 - Test the website across different screen sizes and devices.
 - Prepare the website for deployment.
 
+ ### About the Business
+
+Ratio Matcha is an event-based matcha catering business
+currently in development.
+
+Follow the brand's journey and view our matcha content
+on Instagram:
+
+[Ratio Matcha Instagram] 
+(https://www.instagram.com/ratiomatcha/?hl=en)
+
 ## Project Updates
 
 I will continue updating this README as I develop new features, troubleshoot challenges, and improve the website.
